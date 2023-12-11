@@ -32,6 +32,6 @@
 
 <div align="center">
 
- [![DX4RK's Spotify Music]( https://data-card-for-spotify.herokuapp.com/card?user_id=q66kn69w2gzvjp5s8e67jpcfs )](#)
+ [![DX4RK's Spotify Music]( https://data-card-for-spotify.herokuapp.com/api/card?user_id=q66kn69w2gzvjp5s8e67jpcfs )](#)
   
 </div>
