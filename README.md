@@ -22,7 +22,7 @@
 
 <div align="center">
 
-  [![okbrandon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=okbrandon&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=6E40F3&bg_color=2F3640)](#)
+  [![DX4RK's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DX4RK&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=f34040&bg_color=402f2f)](#)
 
 </div>
 
@@ -32,6 +32,6 @@
 
 <div align="center">
 
- [![okbrandon's Spotify Music]( https://data-card-for-spotify.herokuapp.com/api/card?user_id=deustch.private&custom_title=%E2%9C%A8%20Brandon%27s%20vibing%20%E2%9C%A8&limit=5)](#)
+ [![DX4RK's Spotify Music]( https://data-card-for-spotify.herokuapp.com/api/card?user_id=q66kn69w2gzvjp5s8e67jpcfs&custom_title=%E2%9C%A8%20Brandon%27s%20vibing%20%E2%9C%A8&limit=5)](#)
   
 </div>
