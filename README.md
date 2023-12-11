@@ -22,7 +22,7 @@
 
 <div align="center">
 
-  [![DX4RK's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DX4RK&show_icons=true&line_height=27&count_private=true&title_color=ffffff&border_color=ff3131&text_color=c9cacc&icon_color=f52c2c&bg_color=402f2f)](#)
+  [![DX4RK's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DX4RK&show_icons=true&line_height=27&count_private=true&title_color=ffffff&border_color=ff3131&text_color=c9cacc&icon_color=ff0000&bg_color=402f2f)](#)
 
 </div>
 
