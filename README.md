@@ -14,9 +14,9 @@
 
 <div align="center">
   
-  [![Visits Badge](https://badges.strrl.dev/visits/okbrandon/okbrandon?style=for-the-badge&color=6E40F3)](#)
-  [![Repos Badge](https://badges.strrl.dev/repos/okbrandon?style=for-the-badge&color=6E40F3)](https://github.com/okbrandon?tab=repositories)
-  [![Commits Badge](https://badges.strrl.dev/commits/weekly/okbrandon?style=for-the-badge&color=6E40F3)](https://github.com/okbrandon?tab=repositories)
+  [![Visits Badge](https://badges.strrl.dev/visits/DX4RK/DX4RK?style=for-the-badge&color=ff3131)](#)
+  [![Repos Badge](https://badges.strrl.dev/repos/DX4RK?style=for-the-badge&color=ff3131)](https://github.com/DX4RK?tab=repositories)
+  [![Commits Badge](https://badges.strrl.dev/commits/weekly/DX4RK?style=for-the-badge&color=ff3131)](https://github.com/okbrandon?tab=repositories)
 
 </div>
 
